@@ -1,0 +1,7 @@
+D:\uni\OneDrive - Habib University\Student shiz\Database\Project Database\Database_Project\gfg_dbfinalproject\obj\Debug\gfg_dbfinalproject.csproj.AssemblyReference.cache
+D:\uni\OneDrive - Habib University\Student shiz\Database\Project Database\Database_Project\gfg_dbfinalproject\obj\Debug\gfg_dbfinalproject.Form1.resources
+D:\uni\OneDrive - Habib University\Student shiz\Database\Project Database\Database_Project\gfg_dbfinalproject\obj\Debug\gfg_dbfinalproject.Form2.resources
+D:\uni\OneDrive - Habib University\Student shiz\Database\Project Database\Database_Project\gfg_dbfinalproject\obj\Debug\gfg_dbfinalproject.Form3.resources
+D:\uni\OneDrive - Habib University\Student shiz\Database\Project Database\Database_Project\gfg_dbfinalproject\obj\Debug\gfg_dbfinalproject.Form4.resources
+D:\uni\OneDrive - Habib University\Student shiz\Database\Project Database\Database_Project\gfg_dbfinalproject\obj\Debug\gfg_dbfinalproject.Form5.resources
+D:\uni\OneDrive - Habib University\Student shiz\Database\Project Database\Database_Project\gfg_dbfinalproject\obj\Debug\gfg_dbfinalproject.csproj.GenerateResource.cache
