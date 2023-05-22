@@ -1,14 +1,4 @@
 # Database_Project
-YEET
-
-
-ARSALAN
-
-
-HAMZA
-All the forms.
-
-
-HAMMAD
+A .NET windows management application (with back-end database in SQL) for a real life NGO (GFG foundation).
 
 
